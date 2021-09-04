@@ -1,0 +1,727 @@
+productID,productName,qty,buyer,buyerID,seller,sellerID,userFavorite
+75,Shraddha Toor Dal 50 Kg,1,Mohammed,65,Pradeep Kumar Jain,8,0
+70,Sunpure Refined Sunflower Oil 15l Tin,5,Shaikhmohideen,66,Anirudha,6,0
+75,Shraddha Toor Dal 50 Kg,3,Mohammed,65,Pradeep Kumar Jain,8,0
+75,Shraddha Toor Dal 50 Kg,1,Mohammed,65,Pradeep Kumar Jain,8,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Rishabh Singh,1,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Mohammed,65,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Rishabh Singh,1,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,3,Rishabh Singh,1,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Rishabh Singh,1,Anirudha,6,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Rishabh Singh,1,Anirudha,6,0
+10,Padmavathi Boiled Rice 25 Kg,1,Rishabh Singh,1,Kuber Traders,3,0
+221,Tata Tea Premium Leaf 100g,6,Bhundaram,64,Anirudha,6,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,1,Bhundaram,64,Kuber Traders,3,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Bhundaram,64,Anirudha,6,0
+78,Double Ghoda Urad Dal 50 kg,5,MAR Brothers,74,Pradeep Kumar Jain,8,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Bhundaram,64,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Vinod,80,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,3,Vinod,80,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,5,Vinod,80,Mehboob & co,82,0
+103,Orange Maida 50 kg,2,MAR Brothers,74,RAM KUMAR,11,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Prasad SB,83,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Prasad SB,83,Anirudha,6,0
+10,Padmavathi Boiled Rice 25 Kg,1,Prasad SB,83,Kuber Traders,3,0
+621,Bhuvneshwari Sugar 50 kg High Quality,1,Prasad SB,83,Mehboob & co,82,0
+46,Sunpure Sunflower Oil 1lt pack,50,Shaikhmohideen,66,Anirudha,6,0
+46,Sunpure Sunflower Oil 1lt pack,50,Mohammed,65,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Mohammed,65,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Asan,84,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,5,Bhundaram,64,Mehboob & co,82,0
+380,Parachute Coconut Oil 200 ml,3,Mohammed,65,Anirudha,6,0
+541,Parle Namkeen Bhujia Sev 360g,2,Mohammed,65,Anirudha,6,0
+205,Red Label Poly Pack Of 50,20,MAR Brothers,74,Anirudha,6,0
+106,Krishna Chiroti Sooji 25 kg,8,MAR Brothers,74,RAM KUMAR,11,0
+108,Krishna Green Sooji 50 kg,2,MAR Brothers,74,RAM KUMAR,11,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Shaikhmohideen,66,Anirudha,6,0
+608,Odonil Lavender  Mist 140g,6,Mohammed,65,Anirudha,6,0
+380,Parachute Coconut Oil 200 ml,3,Mohammed,65,Anirudha,6,0
+507,Harpic Power Plus 500 ml,6,Mohammed,65,Anirudha,6,0
+419,Ariel Complete 500g,3,Mohammed,65,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,4,Mohammed,65,Mehboob & co,82,0
+173,Madhur Refined Sugar 1 kg,3,Mohammed,65,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Bhundaram,64,Anirudha,6,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Bhundaram,64,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,2,Vinod,80,Anirudha,6,0
+624,Gold Winner 15L Tin,2,Vinod,80,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,2,Vinod,80,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Gayathri R,76,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Vinod,80,Anirudha,6,0
+1,Bullet Kolam Raw Rice 12 Months Old 25 kg,3,Mr Hari Shankar,91,Kuber Traders,3,0
+47,Sunpure Sunflower Oil 1l Pack of 10,30,Manju SLV Whole Sale Rice Corn,89,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,5,Vinod,80,Mehboob & co,82,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,2,Vinod,80,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,2,Vinod,80,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,2,Bhundaram,64,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,5,Bhundaram,64,Mehboob & co,82,0
+624,Gold Winner 15L Tin,1,Mohammed,65,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,2,Vinod,80,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,3,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+113,Apollo Badam Raw 1 kg,2,Mohammed,65,Bhaskar U. Salian,5,0
+3,RT Gold Sona  Masoori Raw Rice 12 Months Old  25 kg,4,Mohammed,65,Kuber Traders,3,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,3,Mohammed,65,Kuber Traders,3,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Mohammed,65,Anirudha,6,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),20,Chicken World,93,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,3,Bhundaram,64,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,30,Manju SLV Whole Sale Rice Corn,89,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Bhundaram,64,Anirudha,6,0
+480,Surf Excel Bar 150g ,100,Manju SLV Whole Sale Rice Corn,89,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+114,Apollo Indian Kishmish C Type 1 kg,2,Asan,84,Bhaskar U. Salian,5,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,100,Manju SLV Whole Sale Rice Corn,89,Kuber Traders,3,0
+2,Jasmine Steam Rice 12 Months Old 25 kg,50,Manju SLV Whole Sale Rice Corn,89,Kuber Traders,3,0
+22,GTS Bullet Kolam Raw Rice 25 kg,5,Manju SLV Whole Sale Rice Corn,89,Kuber Traders,3,0
+70,Sunpure Refined Sunflower Oil 15l Tin,5,Vinod,80,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,5,Bhundaram,64,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Vinod,80,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Vinod,80,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,3,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Kamal Vinod,92,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Kamal Vinod,92,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,3,Kamal Vinod,92,Haji Bhai,71,0
+624,Gold Winner 15L Tin,1,Mohammed,65,Anirudha,6,0
+618,Eata Vanaspati 1L Pack Of 10,1,Mohammed,65,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Mohammed,65,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Sayyed Ali,85,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Bhundaram,64,Anirudha,6,0
+103,Orange Maida 50 kg,2,MAR Brothers,74,RAM KUMAR,11,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Vinod,80,Mehboob & co,82,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Vinod,80,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Kamal Vinod,92,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Kamal Vinod,92,Anirudha,6,0
+636,Sunfast Refined Oil 5l ,8,Kamal Vinod,92,Healthy Foods,88,0
+637,Emami Healthy & Tasty sunflower oil 5 L Jar,4,Kamal Vinod,92,Healthy Foods,88,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Nandini Rice Corner,104,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Prasad SB,83,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Prasad SB,83,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,1,Prasad SB,83,Mehboob & co,82,0
+10,Padmavathi Boiled Rice 25 Kg,2,Prasad SB,83,Kuber Traders,3,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,2,Prasad SB,83,Kuber Traders,3,0
+635,Soubhagyalaxmi Sugar 50 Kg,4,Mahendra,105,Mehboob & co,82,0
+70,Sunpure Refined Sunflower Oil 15l Tin,12,MAR Brothers,74,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,12,MAR Brothers,74,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,10,MAR Brothers,74,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,10,MAR Brothers,74,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,8,MAR Brothers,74,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,8,MAR Brothers,74,Healthy Foods,88,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),25,Chicken World,93,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),25,Chicken World,93,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),25,Chicken World,93,Kuber Traders,3,0
+75,Shraddha Toor Dal 50 Kg,1,Rishabh Singh,1,Pradeep Kumar Jain,8,0
+75,Shraddha Toor Dal 50 Kg,1,Rishabh Singh,1,Pradeep Kumar Jain,8,0
+75,Shraddha Toor Dal 50 Kg,1,Rishabh Singh,1,Pradeep Kumar Jain,8,0
+635,Soubhagyalaxmi Sugar 50 Kg,7,Bhundaram,64,Mehboob & co,82,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Asan,84,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Vinod,80,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+637,Emami Healthy & Tasty sunflower oil 5 L Jar,4,Vinod,80,Healthy Foods,88,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,2,Nandini Rice Corner,104,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Kamal Vinod,92,Mehboob & co,82,0
+637,Emami Healthy & Tasty sunflower oil 5 L Jar,4,Kamal Vinod,92,Healthy Foods,88,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Mohammed,65,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Mohammed,65,Healthy Foods,88,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Mohammed,65,Haji Bhai,71,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,4,Mohammed,65,Kuber Traders,3,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Mohammed,65,Mehboob & co,82,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Sayyed Ali,85,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Asan,84,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Bhundaram,64,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Mahendra,105,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,New Friends Provision Store,108,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,New Friends Provision Store,108,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,New Friends Provision Store,108,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,2,Bhundaram,64,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Vinod,80,Haji Bhai,71,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Vinod,80,Mehboob & co,82,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,4,Mohammed,65,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Kamal Vinod,92,Healthy Foods,88,0
+25,Patanjali Ghee 1l  Ceka,7,Kamal Vinod,92,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Mahendra,105,Anirudha,6,0
+1,Bullet Kolam Raw Rice 12 Months Old 25 kg,1,New Friends Provision Store,108,Kuber Traders,3,0
+621,Bhuvneshwari Sugar 50 kg High Quality,5,Bhundaram,64,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Vinod,80,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Vinod,80,Healthy Foods,88,0
+622,Samirvaadi Sugar 50 kg,2,Mohammed,65,Mehboob & co,82,0
+18,Palace Red Boiled 25 kg,1,Mohammed,65,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mohammed,65,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Mohammed,65,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,4,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,7,Bhundaram,64,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Asan,84,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,New Friends Provision Store,108,Haji Bhai,71,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,New Friends Provision Store,108,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,2,Bhundaram,64,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Haji Bhai,71,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Kamal Vinod,92,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,2,Kamal Vinod,92,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Vinod,80,Healthy Foods,88,0
+624,Gold Winner 15L Tin,1,Vinod,80,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Sayyed Ali,85,Mehboob & co,82,0
+70,Sunpure Refined Sunflower Oil 15l Tin,5,Durga Provision Store,103,Healthy Foods,88,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Asan,84,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,New Friends Provision Store,108,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Bhundaram,64,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Haji Bhai,71,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Kamal Vinod,92,Healthy Foods,88,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Nandini Rice Corner,104,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Nandini Rice Corner,104,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Nandini Rice Corner,104,Haji Bhai,71,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Nandini Rice Corner,104,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Nandini Rice Corner,104,Haji Bhai,71,0
+647,OM 1 L Pack Of 10,1,Nandini Rice Corner,104,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Sayyed Ali,85,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Sayyed Ali,85,Mehboob & co,82,0
+103,Orange Maida 50 kg,1,Sayyed Ali,85,RAM KUMAR,11,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,2,Vinod,80,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Yunus,116,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Sree Byreshware Rice Traders,117,Anirudha,6,0
+650,Indore Chakki Fresh Atta 50 Kg,1,New Friends Provision Store,108,RAM KUMAR,11,0
+664,Amudham Lamp Oil 1l Pack of 10,5,MAR Brothers,74,Healthy Foods,88,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Bhundaram,64,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Bhundaram,64,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,4,Durga Provision Store,103,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,New Friends Provision Store,108,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,4,Durga Provision Store,103,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,2,Durga Provision Store,103,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,New Friends Provision Store,108,Anirudha,6,0
+619,Eata Vanaspati 500 ML Pack of 20,2,Yunus,116,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),20,Chicken World,93,Kuber Traders,3,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Kamal Vinod,92,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Kamal Vinod,92,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Kamal Vinod,92,Haji Bhai,71,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Kamal Vinod,92,Mehboob & co,82,0
+647,OM 1 L Pack Of 10,1,Mata Ji Provision Stores,110,Haji Bhai,71,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Nandini Rice Corner,104,Anirudha,6,0
+10,Padmavathi Boiled Rice 25 Kg,2,Prasad SB,83,Kuber Traders,3,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,2,Prasad SB,83,Kuber Traders,3,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Prasad SB,83,Mehboob & co,82,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Prasad SB,83,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Vinod,80,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,2,Vinod,80,Healthy Foods,88,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Mohammed,65,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Mohammed,65,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Mata Ji Provision Stores,110,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Vinod,80,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,25,Lakshmi Provision Store,119,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,N T Store,120,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Home Needs,118,Anirudha,6,0
+657,Mohini Maida 50 Kg,1,Home Needs,118,RAM KUMAR,11,0
+622,Samirvaadi Sugar 50 kg,1,Home Needs,118,Mehboob & co,82,0
+22,GTS Bullet Kolam Raw Rice 25 kg,4,Mohammed,65,Kuber Traders,3,0
+664,Amudham Lamp Oil 1l Pack of 10,2,Mohammed,65,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Mohammed,65,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,4,Sayyed Ali,85,Anirudha,6,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,1,Sayyed Ali,85,Kuber Traders,3,0
+674,Bhagyalakshmi Regular Atta 50 Kg,1,New Friends Provision Store,108,RAM KUMAR,11,0
+673,VOM Groundnut Oil 1 L Pack Of 10,1,New Friends Provision Store,108,Haji Bhai,71,0
+647,OM 1 L Pack Of 10,1,New Friends Provision Store,108,Haji Bhai,71,0
+675,Apollo Cashew 1 Kg ,1,New Friends Provision Store,108,Bhaskar U. Salian,5,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Bhundaram,64,Anirudha,6,0
+16,Orange Idli Rice 25 kg,2,Bhundaram,64,Kuber Traders,3,0
+622,Samirvaadi Sugar 50 kg,2,Sayyed Ali,85,Mehboob & co,82,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Sayyed Ali,85,Haji Bhai,71,0
+83,Super Moong Dal 50 kg,1,New Friends Provision Store,108,Pradeep Kumar Jain,8,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,New Friends Provision Store,108,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Kamal Vinod,92,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Kamal Vinod,92,Mehboob & co,82,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Vinod,80,Mehboob & co,82,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Vinod,80,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Vinod,80,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Mata Ji Provision Stores,110,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),20,Chicken World,93,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+98,Orange Gold Chakki Atta 50 kg,1,Asan,84,RAM KUMAR,11,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Harish,127,Anirudha,6,0
+4,Annapurneshwari Sona Masoori  Raw Rice 12 Months Old  25 Kg,50,Manju SLV Whole Sale Rice Corn,89,Kuber Traders,3,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,2,Sayyed Ali,85,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Asan,84,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Home Needs,118,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+642,Royal Gold 1 L Pack Of 10,2,Kamal Vinod,92,Haji Bhai,71,0
+666,Freedom 1 L Pack Of 10,1,Kamal Vinod,92,Haji Bhai,71,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,2,New Friends Provision Store,108,Kuber Traders,3,0
+76,Rose Urad Dal 50 kg,1,New Friends Provision Store,108,Pradeep Kumar Jain,8,0
+90,SSS Fried Gram Dal 30 kg,1,New Friends Provision Store,108,Pradeep Kumar Jain,8,0
+650,Indore Chakki Fresh Atta 50 Kg,1,New Friends Provision Store,108,RAM KUMAR,11,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,New Friends Provision Store,108,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,New Friends Provision Store,108,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Nandini Rice Corner,104,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Nandini Rice Corner,104,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,10,Lakshmi Provision Store,119,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,2,Sree Byreshware Rice Traders,117,Healthy Foods,88,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Chicken World,93,Anirudha,6,0
+25,Patanjali Ghee 1l  Ceka,5,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Kamal Vinod,92,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Harish,127,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Harish,127,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Mata Ji Provision Stores,110,Mehboob & co,82,0
+622,Samirvaadi Sugar 50 kg,2,Vinod,80,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,2,Mahendra,105,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Mahendra,105,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Mohammed,131,Healthy Foods,88,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),2,Mohammed,131,Anirudha,6,0
+675,Apollo Cashew 1 Kg ,1,Mohammed,131,Bhaskar U. Salian,5,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,New Friends Provision Store,108,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Svs Traders,126,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,MAR Brothers,74,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,MAR Brothers,74,Anirudha,6,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,4,Mohammed,65,Kuber Traders,3,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,4,Km Traders,132,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,10,Km Traders,132,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Yunus,116,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Aaigi provision store,111,Anirudha,6,0
+650,Indore Chakki Fresh Atta 50 Kg,1,Harish,127,RAM KUMAR,11,0
+25,Patanjali Ghee 1l  Ceka,10,Durga Provision Store,103,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Mata Ji Provision Stores,110,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Mata Ji Provision Stores,110,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Mata Ji Provision Stores,110,Mehboob & co,82,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,10,Km Traders,132,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Asan,84,Mehboob & co,82,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Durga Provision Store,103,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Durga Provision Store,103,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Durga Provision Store,103,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Sayyed Ali,85,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+650,Indore Chakki Fresh Atta 50 Kg,1,Svs Traders,126,RAM KUMAR,11,0
+102,ICE Maida 50 kg,1,Svs Traders,126,RAM KUMAR,11,0
+106,Krishna Chiroti Sooji 25 kg,1,Svs Traders,126,RAM KUMAR,11,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Svs Traders,126,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Kamal Vinod,92,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Mohammed,131,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Mohammed,131,Anirudha,6,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,2,Mohammed,131,Haji Bhai,71,0
+664,Amudham Lamp Oil 1l Pack of 10,3,Mohammed,131,Healthy Foods,88,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,3,Yunus,116,Haji Bhai,71,0
+622,Samirvaadi Sugar 50 kg,1,Asan,84,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+697,Roxy Chakki Atta 50 Kg,1,Asan,84,Shubham,26,0
+107,Orange Chiroti Sooji 25 kg,1,Asan,84,RAM KUMAR,11,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,1,Asan,84,Kuber Traders,3,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Kamal Vinod,92,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Home Needs,118,Mehboob & co,82,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,1,Home Needs,118,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Home Needs,118,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,3,Home Needs,118,Haji Bhai,71,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Home Needs,118,Anirudha,6,0
+650,Indore Chakki Fresh Atta 50 Kg,1,Home Needs,118,RAM KUMAR,11,0
+659,Kesari Premium Maida 50 Kg ,1,Home Needs,118,RAM KUMAR,11,0
+22,GTS Bullet Kolam Raw Rice 25 kg,1,Kamal Vinod,92,Kuber Traders,3,0
+22,GTS Bullet Kolam Raw Rice 25 kg,1,Kamal Vinod,92,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Harish,127,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Prasad SB,83,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Prasad SB,83,Healthy Foods,88,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Prasad SB,83,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Prasad SB,83,Mehboob & co,82,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Sayyed Ali,85,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Sayyed Ali,85,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,2,Durga Provision Store,103,Anirudha,6,0
+22,GTS Bullet Kolam Raw Rice 25 kg,4,Durga Provision Store,103,Kuber Traders,3,0
+674,Bhagyalakshmi Regular Atta 50 Kg,1,New Friends Provision Store,108,RAM KUMAR,11,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,New Friends Provision Store,108,Anirudha,6,0
+1,Bullet Kolam Raw Rice 12 Months Old 25 kg,1,New Friends Provision Store,108,Kuber Traders,3,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Kamal Vinod,92,Anirudha,6,0
+22,GTS Bullet Kolam Raw Rice 25 kg,1,Kamal Vinod,92,Kuber Traders,3,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Minnoos Departmental Store,137,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Minnoos Departmental Store,137,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Nandini Rice Corner,104,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Nandini Rice Corner,104,Anirudha,6,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Nandini Rice Corner,104,Haji Bhai,71,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Nandini Rice Corner,104,Healthy Foods,88,0
+648,OM 500 Ml Pack Of 20,1,Nandini Rice Corner,104,Haji Bhai,71,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Nandini Rice Corner,104,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,2,Zafar Ali,134,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Zafar Ali,134,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Asan,84,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Vinod,80,Haji Bhai,71,0
+622,Samirvaadi Sugar 50 kg,2,Vinod,80,Mehboob & co,82,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Vinod,80,Healthy Foods,88,0
+70,Sunpure Refined Sunflower Oil 15l Tin,10,Km Traders,132,Healthy Foods,88,0
+664,Amudham Lamp Oil 1l Pack of 10,5,Km Traders,132,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,5,Km Traders,132,Haji Bhai,71,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Asan,84,Anirudha,6,0
+697,Roxy Chakki Atta 50 Kg,1,Asan,84,Shubham,26,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Sree Byreshware Rice Traders,117,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Sree Byreshware Rice Traders,117,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Minnoos Departmental Store,137,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,MAR Brothers,74,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,MAR Brothers,74,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Sree Byreshware Rice Traders,117,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Minnoos Departmental Store,137,Mehboob & co,82,0
+673,VOM Groundnut Oil 1 L Pack Of 10,1,Minnoos Departmental Store,137,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Asan,84,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,5,Yunus,116,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+624,Gold Winner 15L Tin,1,Vinod,80,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,2,Vinod,80,Mehboob & co,82,0
+16,Orange Idli Rice 25 kg,3,Bhundaram,64,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Mata Ji Provision Stores,110,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Haji Bhai,71,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Bhundaram,64,Anirudha,6,0
+665,Silver 50 Kg,1,Mohammed,131,Pradeep Kumar Jain,8,0
+622,Samirvaadi Sugar 50 kg,1,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Haji Bhai,71,0
+70,Sunpure Refined Sunflower Oil 15l Tin,2,Zafar Ali,134,Healthy Foods,88,0
+664,Amudham Lamp Oil 1l Pack of 10,10,Km Traders,132,Healthy Foods,88,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,10,Km Traders,132,Anirudha,6,0
+672,Sunrich Refined Sunflower Oil 1 L Pack Of 10,1,Zafar Ali,134,Haji Bhai,71,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Zafar Ali,134,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Zafar Ali,134,Haji Bhai,71,0
+624,Gold Winner 15L Tin,1,Sree Byreshware Rice Traders,117,Anirudha,6,0
+707,Platinum Ragi Flour 25 Kgs,1,New Friends Provision Store,108,RAM KUMAR,11,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Yunus,116,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,5,Yunus,116,Haji Bhai,71,0
+622,Samirvaadi Sugar 50 kg,1,Harish,127,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+99,Krishna Regular Atta 50 kg,1,New Friends Provision Store,108,RAM KUMAR,11,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Durga Provision Store,103,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,30,Manju SLV Whole Sale Rice Corn,89,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,5,Manju SLV Whole Sale Rice Corn,89,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Mohammed,131,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,2,Mohammed,131,Healthy Foods,88,0
+688,Round Jaggery C Type 30 Kg,1,Mohammed,131,NSB & Sons,128,0
+680,Dil Gold Sona Masoori Raw Rice 25 kg,4,Mohammed,131,Kuber Traders,3,0
+3,RT Gold Sona  Masoori Raw Rice 12 Months Old  25 kg,2,Mohammed,131,Kuber Traders,3,0
+622,Samirvaadi Sugar 50 kg,2,Svs Traders,126,Mehboob & co,82,0
+102,ICE Maida 50 kg,1,Svs Traders,126,RAM KUMAR,11,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Anirudha,6,0
+22,GTS Bullet Kolam Raw Rice 25 kg,1,Aaigi provision store,111,Kuber Traders,3,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Durga Provision Store,103,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Durga Provision Store,103,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Durga Provision Store,103,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Vinod,80,Healthy Foods,88,0
+622,Samirvaadi Sugar 50 kg,2,Vinod,80,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+695,Loose Salt 50 Kg High Quality,1,Bhundaram,64,NSB & Sons,128,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Chicken World,93,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Zafar Ali,134,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Zafar Ali,134,Haji Bhai,71,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Zafar Ali,134,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Zafar Ali,134,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,2,New Friends Provision Store,108,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Minnoos Departmental Store,137,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Minnoos Departmental Store,137,Mehboob & co,82,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Haji Bhai,71,0
+720,Sai Achutham Lamp Oil 500 ml Pack Of 20,1,Harish,127,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,2,Durga Provision Store,103,Healthy Foods,88,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+677,Annamayya  Raw Rice 25 Kg 12 Month Old,1,New Friends Provision Store,108,Kuber Traders,3,0
+70,Sunpure Refined Sunflower Oil 15l Tin,3,Durga Provision Store,103,Healthy Foods,88,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Sree Byreshware Rice Traders,117,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,4,Durga Provision Store,103,Healthy Foods,88,0
+22,GTS Bullet Kolam Raw Rice 25 kg,4,Durga Provision Store,103,Kuber Traders,3,0
+622,Samirvaadi Sugar 50 kg,3,Bhundaram,64,Mehboob & co,82,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,2,Bhundaram,64,Anirudha,6,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Bhundaram,64,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,5,Mahendra,105,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Zafar Ali,134,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,3,Zafar Ali,134,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,4,Aaigi provision store,111,Anirudha,6,0
+721,Sai Achutham Lamp Oil 1 L Pack Of 10,1,Aaigi provision store,111,Haji Bhai,71,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Aaigi provision store,111,Mehboob & co,82,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Asan,84,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,New Friends Provision Store,108,Anirudha,6,0
+621,Bhuvneshwari Sugar 50 kg High Quality,1,New Friends Provision Store,108,Mehboob & co,82,0
+720,Sai Achutham Lamp Oil 500 ml Pack Of 20,1,Harish,127,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Harish,127,Anirudha,6,0
+373,Aashirvaad Atta 1 kg,30,Harish,127,Anirudha,6,0
+382,Aashirvaad Atta 2 kg,15,Harish,127,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Harish,127,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Minnoos Departmental Store,137,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Minnoos Departmental Store,137,Mehboob & co,82,0
+22,GTS Bullet Kolam Raw Rice 25 kg,5,Durga Provision Store,103,Kuber Traders,3,0
+634,Gold winner Sunflower Oil 1l Pack of 10,3,Durga Provision Store,103,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Durga Provision Store,103,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Sayyed Ali,85,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+103,Orange Maida 50 kg,1,Sayyed Ali,85,RAM KUMAR,11,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+650,Indore Chakki Fresh Atta 50 Kg,2,Svs Traders,126,RAM KUMAR,11,0
+660,Double Rose Maida 50 Kg,1,Svs Traders,126,RAM KUMAR,11,0
+673,VOM Groundnut Oil 1 L Pack Of 10,1,Svs Traders,126,Haji Bhai,71,0
+68,Ruchi Gold Palm Oil 500 ml Pack of 20,1,Svs Traders,126,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,5,Mohammed,131,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,5,Mohammed,131,Haji Bhai,71,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Mohammed,131,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Mohammed,131,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mohammed,131,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,3,Mohammed,131,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,3,Mohammed,131,Haji Bhai,71,0
+622,Samirvaadi Sugar 50 kg,2,Mohammed,131,Mehboob & co,82,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Mohammed,131,Mehboob & co,82,0
+688,Round Jaggery C Type 30 Kg,1,Mohammed,131,NSB & Sons,128,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,New Friends Provision Store,108,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,New Friends Provision Store,108,Anirudha,6,0
+710,R.R Super Raagi Flour 50 Kgs,1,New Friends Provision Store,108,RAM KUMAR,11,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Aaigi provision store,111,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,4,Aaigi provision store,111,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Aaigi provision store,111,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Aaigi provision store,111,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Haji Bhai,71,0
+622,Samirvaadi Sugar 50 kg,1,Kamal Vinod,92,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Haji Bhai,71,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Kamal Vinod,92,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Vinod,80,Haji Bhai,71,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),3,Vinod,80,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Vinod,80,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Nandini Rice Corner,104,Anirudha,6,0
+664,Amudham Lamp Oil 1l Pack of 10,1,Nandini Rice Corner,104,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Nandini Rice Corner,104,Haji Bhai,71,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),2,Home Needs,118,Kuber Traders,3,0
+634,Gold winner Sunflower Oil 1l Pack of 10,3,Zafar Ali,134,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Zafar Ali,134,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Kamal Vinod,92,Healthy Foods,88,0
+624,Gold Winner 15L Tin,1,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,4,Aaigi provision store,111,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Yunus,116,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,5,Yunus,116,Haji Bhai,71,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Durga Provision Store,103,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,4,Durga Provision Store,103,Anirudha,6,0
+673,VOM Groundnut Oil 1 L Pack Of 10,3,Durga Provision Store,103,Haji Bhai,71,0
+664,Amudham Lamp Oil 1l Pack of 10,3,Durga Provision Store,103,Healthy Foods,88,0
+25,Patanjali Ghee 1l  Ceka,3,Durga Provision Store,103,Anirudha,6,0
+103,Orange Maida 50 kg,2,MAR Brothers,74,RAM KUMAR,11,0
+624,Gold Winner 15L Tin,1,Sree Byreshware Rice Traders,117,Anirudha,6,0
+622,Samirvaadi Sugar 50 kg,1,Asan,84,Mehboob & co,82,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Asan,84,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Asan,84,Healthy Foods,88,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,10,Km Traders,132,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Vinod,80,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Vinod,80,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Vinod,80,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,4,Svs Traders,126,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,New Friends Provision Store,108,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Kamal Vinod,92,Mehboob & co,82,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Kamal Vinod,92,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Kamal Vinod,92,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),2,MAR Brothers,74,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Asan,84,Mehboob & co,82,0
+739,Annapurna Rock Salt 1Kg Pack of 25,1,Harish,127,Sanjeev Singh,10,0
+694,TruSalt Table Salt 25 Kg,1,Harish,127,NSB & Sons,128,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+689,Square Jaggery 22 Kg,1,Km Traders,132,NSB & Sons,128,0
+690,Square Jaggery 23 Kg,1,Km Traders,132,NSB & Sons,128,0
+9,Golden Tiger KRK Boiled Rice 25 Kg,2,New Friends Provision Store,108,Kuber Traders,3,0
+106,Krishna Chiroti Sooji 25 kg,1,Km Traders,132,RAM KUMAR,11,0
+79,Rudra Urad Dal Gola White 50 kg,1,Km Traders,132,Pradeep Kumar Jain,8,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Zafar Ali,134,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Zafar Ali,134,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,3,Ganesh Ram Bhundram,141,Mehboob & co,82,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Ganesh Ram Bhundram,141,Anirudha,6,0
+739,Annapurna Rock Salt 1Kg Pack of 25,1,Harish,127,Sanjeev Singh,10,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Aaigi provision store,111,Healthy Foods,88,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Mata Ji Provision Stores,110,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Sayyed Ali,85,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,Vinod,80,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Vinod,80,Haji Bhai,71,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Vinod,80,Healthy Foods,88,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Vinod,80,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mohammed,131,Anirudha,6,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,2,Mohammed,131,Haji Bhai,71,0
+664,Amudham Lamp Oil 1l Pack of 10,2,Mohammed,131,Healthy Foods,88,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Mohammed,131,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Anirudha,6,0
+739,Annapurna Rock Salt 1Kg Pack of 25,1,Harish,127,Sanjeev Singh,10,0
+694,TruSalt Table Salt 25 Kg,1,Harish,127,NSB & Sons,128,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,New Friends Provision Store,108,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,New Friends Provision Store,108,Anirudha,6,0
+647,OM 1 L Pack Of 10,1,New Friends Provision Store,108,Haji Bhai,71,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Vinod,80,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Kamal Vinod,92,Mehboob & co,82,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Kamal Vinod,92,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Kamal Vinod,92,Haji Bhai,71,0
+22,GTS Bullet Kolam Raw Rice 25 kg,1,New Friends Provision Store,108,Kuber Traders,3,0
+679,Royal Bullet Kolam Rice 25 Kgs,1,New Friends Provision Store,108,A.G.R & Company,139,0
+689,Square Jaggery 22 Kg,3,Yunus,116,NSB & Sons,128,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,5,Yunus,116,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,10,Km Traders,132,Healthy Foods,88,0
+624,Gold Winner 15L Tin,10,Sree Byreshware Rice Traders,117,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Sree Byreshware Rice Traders,117,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,4,Sree Byreshware Rice Traders,117,Mehboob & co,82,0
+22,GTS Bullet Kolam Raw Rice 25 kg,2,Ganesh Ram Bhundram,141,Kuber Traders,3,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Ganesh Ram Bhundram,141,Mehboob & co,82,0
+685,Colours Steam Rice 25 Kg,4,Home Needs,118,Anirudha,6,0
+5,Sangam Sona Masoori Steamed Rice 25 Kg,2,Home Needs,118,Kuber Traders,3,0
+697,Roxy Chakki Atta 50 Kg,1,Home Needs,118,Shubham,26,0
+365,Aashirvaad Atta 10 kg (Salt Free),3,Home Needs,118,Anirudha,6,0
+394,Aashirvaad  Aata 5 kg ,6,Home Needs,118,Anirudha,6,0
+63,Fortune Filtered Mustard Oil 500 ml(Pack Of 24),1,Home Needs,118,Anirudha,6,0
+740,Gemini Sunflower Oil 1 l Pack of 12,1,Home Needs,118,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,3,Home Needs,118,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,4,Home Needs,118,Haji Bhai,71,0
+679,Royal Bullet Kolam Rice 25 Kgs,2,New Friends Provision Store,108,A.G.R & Company,139,0
+47,Sunpure Sunflower Oil 1l Pack of 10,3,New Friends Provision Store,108,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Sayyed Ali,85,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Sayyed Ali,85,Mehboob & co,82,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Asan,84,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,2,Asan,84,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Asan,84,Anirudha,6,0
+721,Sai Achutham Lamp Oil 1 L Pack Of 10,1,Asan,84,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,4,Vinod,80,Anirudha,6,0
+103,Orange Maida 50 kg,1,Asan,84,RAM KUMAR,11,0
+98,Orange Gold Chakki Atta 50 kg,1,Asan,84,RAM KUMAR,11,0
+102,ICE Maida 50 kg,1,Svs Traders,126,RAM KUMAR,11,0
+698,Cashew 1 Kg Top Quality,1,Svs Traders,126,Bhaskar U. Salian,5,0
+702,Badam 1kg,1,Svs Traders,126,Bhaskar U. Salian,5,0
+674,Bhagyalakshmi Regular Atta 50 Kg,1,New Friends Provision Store,108,RAM KUMAR,11,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,20,Km Traders,132,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,5,Kamal Vinod,92,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Kamal Vinod,92,Mehboob & co,82,0
+12,India Gate Dubar Basmati Rice 1 Kg(Pack of 20),1,Chicken World,93,Kuber Traders,3,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Chicken World,93,Anirudha,6,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Kamal Vinod,92,Healthy Foods,88,0
+47,Sunpure Sunflower Oil 1l Pack of 10,10,Yunus,116,Anirudha,6,0
+22,GTS Bullet Kolam Raw Rice 25 kg,3,Ganesh Ram Bhundram,141,Kuber Traders,3,0
+70,Sunpure Refined Sunflower Oil 15l Tin,1,Aaigi provision store,111,Healthy Foods,88,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Aaigi provision store,111,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,6,NM Traders,144,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Harish,127,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Harish,127,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Minnoos Departmental Store,137,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Minnoos Departmental Store,137,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Minnoos Departmental Store,137,Anirudha,6,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Minnoos Departmental Store,137,Mehboob & co,82,0
+634,Gold winner Sunflower Oil 1l Pack of 10,5,Yunus,116,Haji Bhai,71,0
+70,Sunpure Refined Sunflower Oil 15l Tin,5,Yunus,116,Healthy Foods,88,0
+635,Soubhagyalaxmi Sugar 50 Kg,1,Mata Ji Provision Stores,110,Mehboob & co,82,0
+47,Sunpure Sunflower Oil 1l Pack of 10,1,Mata Ji Provision Stores,110,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Mata Ji Provision Stores,110,Anirudha,6,0
+48,Gold Winner Sunflower Oil 5l Jar(Pack of 3),1,Mata Ji Provision Stores,110,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Vinod,80,Anirudha,6,0
+49,Sunpure Sunflower Oil 5l Jar Pack of 4 ,1,Vinod,80,Anirudha,6,0
+693,Tru Salt Crystal 25 Kg,2,Sayyed Ali,85,NSB & Sons,128,0
+22,GTS Bullet Kolam Raw Rice 25 kg,2,Aaigi provision store,111,Kuber Traders,3,0
+664,Amudham Lamp Oil 1l Pack of 10,2,Mohammed,131,Healthy Foods,88,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Mohammed,131,Haji Bhai,71,0
+688,Round Jaggery C Type 30 Kg,1,Mohammed,131,NSB & Sons,128,0
+635,Soubhagyalaxmi Sugar 50 Kg,2,Mohammed,131,Mehboob & co,82,0
+705,Real Gold Sooji,1,Mohammed,131,RAM KUMAR,11,0
+621,Bhuvneshwari Sugar 50 kg High Quality,1,New Friends Provision Store,108,Mehboob & co,82,0
+744,A1 Moong Dal 50 Kg ,1,Minnoos Departmental Store,137,Natani,99,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Nandini Rice Corner,104,Anirudha,6,0
+43,Sunpure Sunflower Oil 500 ml Pack of 20,1,Nandini Rice Corner,104,Anirudha,6,0
+634,Gold winner Sunflower Oil 1l Pack of 10,1,Nandini Rice Corner,104,Haji Bhai,71,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,1,Nandini Rice Corner,104,Anirudha,6,0
+667,Amudham Lamp Oil 500 Ml Pack Of 20,1,Nandini Rice Corner,104,Haji Bhai,71,0
+673,VOM Groundnut Oil 1 L Pack Of 10,1,Kamal Vinod,92,Haji Bhai,71,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Kamal Vinod,92,Anirudha,6,0
+66,Ruchi Gold Palm Oil 1l Pack of 10,2,Prasad SB,83,Anirudha,6,0
+10,Padmavathi Boiled Rice 25 Kg,2,Prasad SB,83,Kuber Traders,3,0
+47,Sunpure Sunflower Oil 1l Pack of 10,2,Sayyed Ali,85,Anirudha,6,0
